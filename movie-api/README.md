@@ -39,12 +39,9 @@ Da mesma forma, pode acessar todas as resenhas de um filme através da proprieda
 
 As cardinalidades definidas são:
 
-User - Movie: Um para Muitos (1
-)
-User - Review: Um para Muitos (1
-)
-Movie - Review: Um para Muitos (1
-)
+User - Movie: Um para Muitos (1-n)   
+User - Review: Um para Muitos (1-n)   
+Movie - Review: Um para Muitos (1-n)   
 
 Essas relações são bem definidas nas chaves estrangeiras (como userId e movieId) e nas propriedades de relação no modelo Prisma.
 
