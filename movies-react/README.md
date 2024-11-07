@@ -15,7 +15,7 @@ Outros recursos integrados com back-end:
 - Registros de reviews, users e filmes/séries
 - Formatação e lint de código (Eslint e Prettier)
 - Typescript como linguagem padrão e types definidos (programação)
-- Uso de banco relacionais
+- Uso de banco de dados relacionais
 - Uso do conceito de componetização com componentes pais e filhos com suas interações
 - React Hooks
 - CSS in JS (Style Components) para componentes estilizados

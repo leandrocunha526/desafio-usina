@@ -15,7 +15,7 @@ Outros recursos:
 - Registros de reviews, users e filmes/séries
 - Formatação e lint de código (Eslint e Prettier)
 - Typescript como linguagem padrão e types definidos (programação)
-- Uso de banco relacionais
+- Uso de banco de dados relacionais
 
 ## Banco de dados
 
