@@ -4,7 +4,7 @@ Esta API oferece funcionalidades para gerenciar usuários, autenticação, filme
 
 Outros recursos:
 
-- Filtros por páginas, título, contagens (filmes e páginas para a páginação), front-end possui funções para extrair gênero e ano de lançamento para mais filtros
+- Filtros por páginas, título, contagens (filmes e páginas para a paginação), front-end possui funções para extrair gênero e ano de lançamento para mais filtros
 - Recomendações com collaborative filter
 - CRUDs
 - Upload de arquivos com Morgan
